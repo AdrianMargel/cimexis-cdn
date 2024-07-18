@@ -1,3 +1,8 @@
+/*
+	Copyright (c) 2024, Adrian Margel All Rights Reserved.
+	see: https://github.com/AdrianMargel/cimexis-elements for details
+*/
+
 class Vector extends Array {
 	constructor(...data){
 		//TODO: Array(10) will create an array of 10 empty items.

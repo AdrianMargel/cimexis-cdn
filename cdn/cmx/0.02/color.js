@@ -1,3 +1,8 @@
+/*
+	Copyright (c) 2024, Adrian Margel All Rights Reserved.
+	see: https://github.com/AdrianMargel/cimexis-elements for details
+*/
+
 let COLOR={
 	RGB:"rgb",
 	REAL:"real",

@@ -1,3 +1,8 @@
+/*
+	Copyright (c) 2024, Adrian Margel All Rights Reserved.
+	see: https://github.com/AdrianMargel/cimexis-elements for details
+*/
+
 class WeakRefSet{
 	constructor(){
 		//TODO: consider using a weakSet internally along side an array to speed up lookups

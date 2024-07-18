@@ -1,3 +1,8 @@
+/*
+	Copyright (c) 2024, Adrian Margel All Rights Reserved.
+	see: https://github.com/AdrianMargel/cimexis-elements for details
+*/
+
 function glsl(strings,...keys){
 	return strings[0]+keys.map((k,i)=>k+strings[i+1]).join("");
 }

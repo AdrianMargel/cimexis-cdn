@@ -1,4 +1,9 @@
 /*
+	Copyright (c) 2024, Adrian Margel All Rights Reserved.
+	see: https://github.com/AdrianMargel/cimexis-elements for details
+*/
+
+/*
 	This file contains useful methods and tools for creating websites.
 
 	I highly recomend using these plug ins for VS Code:
