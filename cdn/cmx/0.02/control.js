@@ -30,7 +30,7 @@ class Control{
 
 		element.oncontextmenu=
 		element.onmousedown=(e)=>{
-			// e.preventDefault();
+			e.preventDefault();//TODO: make this optional
 			this.touchMode=false;
 			if(e.button==0){
 				this.mLDown=true;
